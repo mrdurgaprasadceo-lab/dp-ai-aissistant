@@ -111,3 +111,8 @@ Run the assistant
 ```
 python main.py
 ```
+## 👨‍💻 Author
+
+Durga Prasad
+
+GitHub: https://github.com/mrdurgaprasadceo-lab
