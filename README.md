@@ -53,4 +53,61 @@ This project helps demonstrate:
 
 ---
 
-# 📂 Project Structure
+## 📂 Project Structure
+
+```
+dp-ai-aissistant
+│
+├── engine
+│   ├── command.py
+│   ├── features.py
+│   └── helper.py
+│
+├── envjarvis
+│
+├── www
+│   ├── index.html
+│   ├── main.js
+│   ├── script.js
+│   └── style.css
+│
+├── main.py
+└── dp_assistant.db
+```
+## 🚀 Installation
+
+Clone the repository
+
+```
+git clone https://github.com/mrdurgaprasadceo-lab/dp-ai-aissistant.git
+```
+
+Install required packages
+
+```
+pip install eel pyttsx3 SpeechRecognition
+```
+
+Run the assistant
+
+```
+python main.py
+```## 🚀 Installation
+
+Clone the repository
+
+```
+git clone https://github.com/mrdurgaprasadceo-lab/dp-ai-aissistant.git
+```
+
+Install required packages
+
+```
+pip install eel pyttsx3 SpeechRecognition
+```
+
+Run the assistant
+
+```
+python main.py
+```
