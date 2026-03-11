@@ -1,7 +1,4 @@
 # 🤖 DP AI Assistant
-## 📷 Demo
-
-![DP Assistant](demo.png)
 
 ![Python](https://img.shields.io/badge/Python-3.9-blue)
 ![Eel](https://img.shields.io/badge/Framework-Eel-green)
